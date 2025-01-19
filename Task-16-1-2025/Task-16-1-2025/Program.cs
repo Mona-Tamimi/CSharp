@@ -46,6 +46,7 @@ namespace Task_16_1_2025
                 Console.WriteLine(i);
             }
 
+
             //4 - Write a program in C that reads a first name, Lastname and year of birth and display the names and the year one after another sequentially.Go to the editor
             //    •	Input your firstname: Sami
             //    •	Input your lastname: Ali
