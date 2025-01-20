@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\CSharp\20-1-2025\task-20-1\task-20-1\bin\Debug\task-20-1.exe.config
+C:\Users\Orange\Desktop\CSharp\20-1-2025\task-20-1\task-20-1\bin\Debug\task-20-1.exe
+C:\Users\Orange\Desktop\CSharp\20-1-2025\task-20-1\task-20-1\bin\Debug\task-20-1.pdb
+C:\Users\Orange\Desktop\CSharp\20-1-2025\task-20-1\task-20-1\obj\Debug\task-20-1.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\CSharp\20-1-2025\task-20-1\task-20-1\obj\Debug\task-20-1.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\CSharp\20-1-2025\task-20-1\task-20-1\obj\Debug\task-20-1.exe
+C:\Users\Orange\Desktop\CSharp\20-1-2025\task-20-1\task-20-1\obj\Debug\task-20-1.pdb
