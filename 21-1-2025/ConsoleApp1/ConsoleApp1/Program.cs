@@ -12,7 +12,27 @@ namespace ConsoleApp1
         class Student
         {
             public string Name { get; set; } //property
-            public int Age { get; set; } //property
+            private int _age; // Backing field for the Age property
+
+            public int Age
+            {
+                set
+                {
+                    if (value >= MinAge && value <= MaxAge) // Use 'value' to refer to the incoming value
+                    {
+                        _age = value;
+                    }
+                    else
+                    {
+                        _age = MinAge; // Default to minimum age
+                    }
+                }
+                get
+                {
+                    return _age;
+                }
+            }
+
             public int StudentID { get; set; } //property
             public int Email { get; set; } //property
 
@@ -29,7 +49,7 @@ namespace ConsoleApp1
                 Age = MinAge;
                 StudentID = 1;
             }
-             public Student(string name, int age, int id)
+            public Student(string name, int age, int id)
             {
                 Name = name;
                 Age = age;
@@ -48,8 +68,8 @@ namespace ConsoleApp1
             student1.Age = 22;
             student1.StudentID = 1001;
             student1.GetDetails();
-            
-            Student student2 = new Student("Mona",23,2001);
+
+            Student student2 = new Student("Mona", 23, 2001);
             student2.GetDetails();
             Student student3 = new Student("Nada", 22, 2002);
             student3.GetDetails();
