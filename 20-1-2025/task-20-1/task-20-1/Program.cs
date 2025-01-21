@@ -88,6 +88,34 @@ namespace task_20_1
 
             Console.WriteLine();
         }
+        public static void jana()
+        {
+            bool b = false;
+            int x = 25;
+            for (int i = 2; i < x; i++)
+            {
+                if (x % i == 0)
+                {
+                    b = false;
+                    break;
+                }
+                else
+                {
+
+                    b= true;
+
+                }
+            }
+            if (b)
+            {
+                Console.WriteLine("prime");
+            }
+            else
+            {
+                Console.WriteLine("Not prime");
+            }
+
+        }
         public static void pattern(int x)
         {
             int count = 1;
@@ -243,7 +271,7 @@ namespace task_20_1
                 //    2.Allow the user to input details for at least 2 rooms.
                 Room.ManageRoomBooking();
 
-
+                jana();
 
 
 
