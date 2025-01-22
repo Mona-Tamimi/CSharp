@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\CSharp\C_sharp\C_sharp\bin\Debug\C_sharp.exe.config
+C:\Users\Orange\Desktop\CSharp\C_sharp\C_sharp\bin\Debug\C_sharp.exe
+C:\Users\Orange\Desktop\CSharp\C_sharp\C_sharp\bin\Debug\C_sharp.pdb
+C:\Users\Orange\Desktop\CSharp\C_sharp\C_sharp\obj\Debug\task2-19-1-2025.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\CSharp\C_sharp\C_sharp\obj\Debug\task2-19-1-2025.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\CSharp\C_sharp\C_sharp\obj\Debug\C_sharp.exe
+C:\Users\Orange\Desktop\CSharp\C_sharp\C_sharp\obj\Debug\C_sharp.pdb

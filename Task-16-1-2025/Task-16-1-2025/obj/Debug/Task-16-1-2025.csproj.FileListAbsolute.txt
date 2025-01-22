@@ -1,7 +1,0 @@
-C:\Users\Orange\Desktop\CSharp\Task-16-1-2025\Task-16-1-2025\bin\Debug\Task-16-1-2025.exe.config
-C:\Users\Orange\Desktop\CSharp\Task-16-1-2025\Task-16-1-2025\bin\Debug\Task-16-1-2025.exe
-C:\Users\Orange\Desktop\CSharp\Task-16-1-2025\Task-16-1-2025\bin\Debug\Task-16-1-2025.pdb
-C:\Users\Orange\Desktop\CSharp\Task-16-1-2025\Task-16-1-2025\obj\Debug\Task-16-1-2025.csproj.AssemblyReference.cache
-C:\Users\Orange\Desktop\CSharp\Task-16-1-2025\Task-16-1-2025\obj\Debug\Task-16-1-2025.csproj.CoreCompileInputs.cache
-C:\Users\Orange\Desktop\CSharp\Task-16-1-2025\Task-16-1-2025\obj\Debug\Task-16-1-2025.exe
-C:\Users\Orange\Desktop\CSharp\Task-16-1-2025\Task-16-1-2025\obj\Debug\Task-16-1-2025.pdb
