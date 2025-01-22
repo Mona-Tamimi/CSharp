@@ -37,6 +37,12 @@ namespace task5_22_1_2025
             car.Model = "model";
             car.NumberOfDoors = 2;
             car.print();
+
+        //Constructor: A method that initializes an object when it's created.
+        //OOP Concepts: Encapsulation, Inheritance, Polymorphism, and Abstraction.
+        //Encapsulation: Protecting data by controlling access using methods or properties.
+        //Sealed Class: A class that cannot be inherited.
+        //Inheritance: A child class using the properties and methods of a parent class.
             
         }
     }
