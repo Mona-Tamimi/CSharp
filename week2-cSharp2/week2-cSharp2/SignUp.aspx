@@ -16,6 +16,15 @@
             margin: 0;
             padding: 0;
         }
+                #btnRegister {
+    background-color: black;
+    box-shadow: 0.1vw 0.1vw 0.2vw gray;
+    color:white;
+}
+
+    #btnRegister:hover {
+        box-shadow: 0.4vw 0.4vw 0.9vw gray;
+    }
     </style>
 </head>
 <body>

@@ -23,21 +23,27 @@
             display: flex;
             gap: 10px;
         }
-        nav .buttons button {
-            background-color: #007BFF;
+        #btnSignUp, #btnSignIn {
+            background-color: gray;
             border: none;
             color: white;
             padding: 10px 15px;
             border-radius: 5px;
             cursor: pointer;
+             box-shadow: 0.1vw 0.1vw 0.2vw gray;
+
         }
+        
+     #btnSignUp:hover, #btnSignIn:hover{
+         box-shadow: 0.4vw 0.4vw 0.9vw gray;
+     }
         .slider {
             height: 300px;
-            background: url('slider-bg.jpg') center/cover no-repeat;
+            background: url('/img/slider-bg.jpg') center/cover no-repeat;
             display: flex;
             justify-content: center;
             align-items: center;
-            color: #333;
+            color: white;
             font-size: 24px;
         }
     </style>
@@ -47,8 +53,11 @@
         <nav>
             <div>My Website</div>
             <div class="buttons">
-                <button type="button" id="btnSignIn" runat="server">Sign In</button>
-                <button type="button" id="btnSignUp" runat="server">Sign Up</button>
+                
+                <asp:Button ID="btnSignIn" runat="server" Text="Sign In" CssClass="btn btn-primary" OnClick="btnSignIn_Click" />
+
+                <asp:Button ID="btnSignUp" runat="server" Text="Sign Up" CssClass="btn btn-primary" OnClick="btnSignUp_Click" />
+
             </div>
         </nav>
         <div class="slider">

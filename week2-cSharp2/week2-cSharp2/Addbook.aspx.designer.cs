@@ -33,31 +33,31 @@ namespace week2_cSharp2
         protected global::System.Web.UI.WebControls.TextBox bookId;
 
         /// <summary>
-        /// bookName control.
+        /// bookTitle control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox bookName;
+        protected global::System.Web.UI.WebControls.TextBox bookTitle;
 
         /// <summary>
-        /// bookType control.
+        /// Author control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox bookType;
+        protected global::System.Web.UI.WebControls.TextBox Author;
 
         /// <summary>
-        /// bookLevel control.
+        /// Price control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox bookLevel;
+        protected global::System.Web.UI.WebControls.TextBox Price;
 
         /// <summary>
         /// addBook control.

@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace week2_cSharp2
 {
-    public partial class homepage : Page
+    public partial class homepage : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -17,7 +17,7 @@ namespace week2_cSharp2
         protected void btnSignIn_Click(object sender, EventArgs e)
         {
             // Handle Sign In button click event
-            Response.Redirect("SignIn.aspx");
+            Response.Redirect("login.aspx");
         }
 
         protected void btnSignUp_Click(object sender, EventArgs e)

@@ -30,7 +30,7 @@ namespace week2_cSharp2
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlButton btnSignIn;
+        protected global::System.Web.UI.WebControls.Button btnSignIn;
 
         /// <summary>
         /// btnSignUp control.
@@ -39,6 +39,6 @@ namespace week2_cSharp2
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlButton btnSignUp;
+        protected global::System.Web.UI.WebControls.Button btnSignUp;
     }
 }

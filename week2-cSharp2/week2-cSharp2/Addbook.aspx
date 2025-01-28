@@ -47,28 +47,28 @@
                                     <hr class="mx-n3">
                                     <div class="row align-items-center py-3">
                                         <div class="col-md-3 ps-5">
-                                            <h6 class="mb-0">Book Name</h6>
+                                            <h6 class="mb-0">Title</h6>
                                         </div>
                                         <div class="col-md-9 pe-5">
-                                            <asp:TextBox runat="server" ID="bookName" class="input form-control form-control-lg"></asp:TextBox>
+                                            <asp:TextBox runat="server" ID="bookTitle" class="input form-control form-control-lg"></asp:TextBox>
                                         </div>
                                     </div>
                                     <hr class="mx-n3">
                                     <div class="row align-items-center py-3">
                                         <div class="col-md-3 ps-5">
-                                            <h6 class="mb-0">Book Type</h6>
+                                            <h6 class="mb-0">Author</h6>
                                         </div>
                                         <div class="col-md-9 pe-5">
-                                            <asp:TextBox runat="server" ID="bookType" class="input form-control form-control-lg"></asp:TextBox>
+                                            <asp:TextBox runat="server" ID="Author" class="input form-control form-control-lg"></asp:TextBox>
                                         </div>
                                     </div>
                                     <hr class="mx-n3">
                                     <div class="row align-items-center py-3">
                                         <div class="col-md-3 ps-5">
-                                            <h6 class="mb-0">Book Level</h6>
+                                            <h6 class="mb-0">Price</h6>
                                         </div>
                                         <div class="col-md-9 pe-5">
-                                            <asp:TextBox runat="server" ID="bookLevel" class="input form-control form-control-lg"></asp:TextBox>
+                                            <asp:TextBox runat="server" ID="Price" class="input form-control form-control-lg"></asp:TextBox>
                                         </div>
                                     </div>
                                     <hr class="mx-n3">

@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|c:\\users\\orange\\desktop\\csharp\\week2-csharp2\\week2-csharp2\\addbook.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\addbook.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-csharp2\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|c:\\users\\orange\\desktop\\csharp\\week2-csharp2\\week2-csharp2\\addbook.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\addbook.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|c:\\users\\orange\\desktop\\csharp\\week2-csharp2\\week2-csharp2\\foradmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\foradmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|c:\\users\\orange\\desktop\\csharp\\week2-csharp2\\week2-csharp2\\seebooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\seebooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|c:\\users\\orange\\desktop\\csharp\\week2-csharp2\\week2-csharp2\\foradmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\foradmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|c:\\users\\orange\\desktop\\csharp\\week2-csharp2\\week2-csharp2\\forstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\forstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|c:\\users\\orange\\desktop\\csharp\\week2-csharp2\\week2-csharp2\\forstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\forstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|c:\\users\\orange\\desktop\\csharp\\week2-csharp2\\week2-csharp2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-csharp2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-csharp2\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-csharp2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -43,16 +23,40 @@
       "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-csharp2\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-csharp2\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-csharp2\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-csharp2\\forstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\forstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-csharp2\\forstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\forstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|c:\\users\\orange\\desktop\\csharp\\week2-csharp2\\week2-csharp2\\seebooks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\seebooks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-csharp2\\seebooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\seebooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|c:\\users\\orange\\desktop\\csharp\\week2-csharp2\\week2-csharp2\\addbook.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\addbook.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-csharp2\\addbook.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\addbook.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-csharp2\\foradmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\foradmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-csharp2\\foradmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BC1073-6F10-45AF-A47E-825A673C5E9E}|week2-cSharp2\\week2-cSharp2.csproj|solutionrelative:week2-csharp2\\foradmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,86 +66,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Addbook.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\Addbook.aspx.cs",
-              "RelativeDocumentMoniker": "week2-cSharp2\\Addbook.aspx.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\Addbook.aspx.cs",
-              "RelativeToolTip": "week2-cSharp2\\Addbook.aspx.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADgvwoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T17:52:44.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Addbook.aspx",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\Addbook.aspx",
-              "RelativeDocumentMoniker": "week2-cSharp2\\Addbook.aspx",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\Addbook.aspx",
-              "RelativeToolTip": "week2-cSharp2\\Addbook.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-28T17:40:01.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ForAdmin.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\ForAdmin.aspx.cs",
-              "RelativeDocumentMoniker": "week2-cSharp2\\ForAdmin.aspx.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\ForAdmin.aspx.cs",
-              "RelativeToolTip": "week2-cSharp2\\ForAdmin.aspx.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADgvxcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T17:35:28.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ForAdmin.aspx",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\ForAdmin.aspx",
-              "RelativeDocumentMoniker": "week2-cSharp2\\ForAdmin.aspx",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\ForAdmin.aspx",
-              "RelativeToolTip": "week2-cSharp2\\ForAdmin.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-28T17:20:19.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Seebooks.aspx",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\Seebooks.aspx",
-              "RelativeDocumentMoniker": "week2-cSharp2\\Seebooks.aspx",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\Seebooks.aspx",
-              "RelativeToolTip": "week2-cSharp2\\Seebooks.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-28T15:56:48.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ForStudent.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\ForStudent.aspx.cs",
-              "RelativeDocumentMoniker": "week2-cSharp2\\ForStudent.aspx.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\ForStudent.aspx.cs",
-              "RelativeToolTip": "week2-cSharp2\\ForStudent.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T15:10:57.321Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
@@ -157,63 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "login.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\login.aspx.cs",
-              "RelativeDocumentMoniker": "week2-cSharp2\\login.aspx.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\login.aspx.cs",
-              "RelativeToolTip": "week2-cSharp2\\login.aspx.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:30:47.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "login.aspx",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\login.aspx",
-              "RelativeDocumentMoniker": "week2-cSharp2\\login.aspx",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\login.aspx",
-              "RelativeToolTip": "week2-cSharp2\\login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-28T10:30:27.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SignUp.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\SignUp.aspx.cs",
-              "RelativeDocumentMoniker": "week2-cSharp2\\SignUp.aspx.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\SignUp.aspx.cs",
-              "RelativeToolTip": "week2-cSharp2\\SignUp.aspx.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwB4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T07:08:02.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SignUp.aspx",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\SignUp.aspx",
-              "RelativeDocumentMoniker": "week2-cSharp2\\SignUp.aspx",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\SignUp.aspx",
-              "RelativeToolTip": "week2-cSharp2\\SignUp.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-28T06:53:18.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "homepage.aspx",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\homepage.aspx",
               "RelativeDocumentMoniker": "week2-cSharp2\\homepage.aspx",
@@ -226,15 +96,161 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "homepage.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\homepage.aspx.cs",
               "RelativeDocumentMoniker": "week2-cSharp2\\homepage.aspx.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\homepage.aspx.cs",
               "RelativeToolTip": "week2-cSharp2\\homepage.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T06:50:56.101Z"
+              "WhenOpened": "2025-01-28T06:50:56.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\login.aspx",
+              "RelativeDocumentMoniker": "week2-cSharp2\\login.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\login.aspx",
+              "RelativeToolTip": "week2-cSharp2\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-28T10:30:27.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\SignUp.aspx",
+              "RelativeDocumentMoniker": "week2-cSharp2\\SignUp.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\SignUp.aspx",
+              "RelativeToolTip": "week2-cSharp2\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-28T06:53:18.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\login.aspx.cs",
+              "RelativeDocumentMoniker": "week2-cSharp2\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\login.aspx.cs",
+              "RelativeToolTip": "week2-cSharp2\\login.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:30:47.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\SignUp.aspx.cs",
+              "RelativeDocumentMoniker": "week2-cSharp2\\SignUp.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\SignUp.aspx.cs",
+              "RelativeToolTip": "week2-cSharp2\\SignUp.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvzIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:08:02.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForStudent.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\ForStudent.aspx.cs",
+              "RelativeDocumentMoniker": "week2-cSharp2\\ForStudent.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\ForStudent.aspx.cs",
+              "RelativeToolTip": "week2-cSharp2\\ForStudent.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:10:57.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Seebooks.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\Seebooks.aspx.cs",
+              "RelativeDocumentMoniker": "week2-cSharp2\\Seebooks.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\Seebooks.aspx.cs",
+              "RelativeToolTip": "week2-cSharp2\\Seebooks.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:21:14.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Seebooks.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\Seebooks.aspx",
+              "RelativeDocumentMoniker": "week2-cSharp2\\Seebooks.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\Seebooks.aspx",
+              "RelativeToolTip": "week2-cSharp2\\Seebooks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-28T15:56:48.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Addbook.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\Addbook.aspx.cs",
+              "RelativeDocumentMoniker": "week2-cSharp2\\Addbook.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\Addbook.aspx.cs",
+              "RelativeToolTip": "week2-cSharp2\\Addbook.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:52:44.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Addbook.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\Addbook.aspx",
+              "RelativeDocumentMoniker": "week2-cSharp2\\Addbook.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\Addbook.aspx",
+              "RelativeToolTip": "week2-cSharp2\\Addbook.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-28T17:40:01.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ForAdmin.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\ForAdmin.aspx",
+              "RelativeDocumentMoniker": "week2-cSharp2\\ForAdmin.aspx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\ForAdmin.aspx",
+              "RelativeToolTip": "week2-cSharp2\\ForAdmin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-28T17:20:19.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForAdmin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\ForAdmin.aspx.cs",
+              "RelativeDocumentMoniker": "week2-cSharp2\\ForAdmin.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\week2-cSharp2\\week2-cSharp2\\ForAdmin.aspx.cs",
+              "RelativeToolTip": "week2-cSharp2\\ForAdmin.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:35:28.314Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

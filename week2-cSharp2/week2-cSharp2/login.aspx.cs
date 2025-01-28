@@ -22,10 +22,10 @@ namespace week2_cSharp2
             string file = Server.MapPath("~/data/userdata.txt");
 
             string[] users = File.ReadAllLines(file);
-            using (StreamWriter sw = File.CreateText(file))
-            {
-                sw.WriteLine("admin admin@gmail.com admin123");
-            }
+            //using (StreamWriter sw = File.CreateText(file))
+            //{
+            //    sw.WriteLine("admin admin@gmail.com admin123");
+            //}
 
             foreach (var user in users)
             {
@@ -33,7 +33,7 @@ namespace week2_cSharp2
 
                 if (email == "admin@gmail.com" && password == "admin123")
                 {
-                    Response.Redirect("signUp.aspx");
+                    Response.Redirect("ForAdmin.aspx");
                 }
                 else if (email == userdata[1] && password == userdata[2])
                 {

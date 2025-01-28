@@ -10,6 +10,20 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.3.0/mdb.min.css" />
     <!-- MDB UI Kit JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.3.0/mdb.min.js"></script>
+    <style>
+        body {
+             background-image: url('https://mdbcdn.b-cdn.net/img/Photos/new-templates/search-box/img4.webp');
+        }
+         #btnSignIn {
+     background-color: black;
+     box-shadow: 0.1vw 0.1vw 0.2vw gray;
+     color:white;
+ }
+
+     #btnSignIn:hover {
+         box-shadow: 0.4vw 0.4vw 0.9vw gray;
+     }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
