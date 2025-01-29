@@ -57,24 +57,6 @@
                     <asp:TableHeaderCell>Author</asp:TableHeaderCell>
                     <asp:TableHeaderCell>Price</asp:TableHeaderCell>
                 </asp:TableHeaderRow>
-                <asp:TableRow>
-                    <asp:TableCell>1</asp:TableCell>
-                    <asp:TableCell>The Great Gatsby</asp:TableCell>
-                    <asp:TableCell>F. Scott Fitzgerald</asp:TableCell>
-                    <asp:TableCell>$10.99</asp:TableCell>
-                </asp:TableRow>
-                <asp:TableRow>
-                    <asp:TableCell>2</asp:TableCell>
-                    <asp:TableCell>The Alchemist</asp:TableCell>
-                    <asp:TableCell>Paulo Coelho</asp:TableCell>
-                    <asp:TableCell>$12.99</asp:TableCell>
-                </asp:TableRow>
-                <asp:TableRow>
-                    <asp:TableCell>3</asp:TableCell>
-                    <asp:TableCell>Clean Code</asp:TableCell>
-                    <asp:TableCell>Robert C. Martin</asp:TableCell>
-                    <asp:TableCell>$35.00</asp:TableCell>
-                </asp:TableRow>
             </asp:Table>
         </div>
     </form>

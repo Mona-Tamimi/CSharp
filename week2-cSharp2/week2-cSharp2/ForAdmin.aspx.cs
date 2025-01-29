@@ -21,7 +21,7 @@ namespace week2_cSharp2
 
         protected void Edit1_Click(object sender, EventArgs e)
         {
-            Response.Redirect("Editbook.aspx");
+            Response.Redirect("SearchEdit.aspx");
 
         }
     }

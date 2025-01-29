@@ -27,18 +27,22 @@
             background-color: gainsboro;
         }
 
-        #btnSeeBook, #Button3, #Button2, #Button1 {
+        #btnSeeBook, #Button3, #Button2, #Button1,#edit {
             background-color: black;
             box-shadow: 0.1vw 0.1vw 0.2vw gray;
         }
 
-            #btnSeeBook:hover, #Button3:hover, #Button2:hover, #Button1:hover {
+            #btnSeeBook:hover, #Button3:hover, #Button2:hover, #Button1:hover, #edit:hover{
                 box-shadow: 0.4vw 0.4vw 0.9vw gray;
+            }
+            #edit{
+                margin-left:85vw;
             }
     </style>
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form1" runat="server"><br />
+        <asp:Button ID="edit" runat="server" Text="Your Profile" CssClass="btn btn-primary" OnClick="edit_Click" />
         <div class="allcards">
             <div class="card" style="width: 18rem;">
                 <img src="\img\book.jpg" class="card-img-top" alt="..." />

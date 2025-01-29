@@ -18,5 +18,10 @@ namespace week2_cSharp2
         {
             Response.Redirect("SeeBooks.aspx");
         }
+
+        protected void edit_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Profile.aspx");
+        }
     }
 }

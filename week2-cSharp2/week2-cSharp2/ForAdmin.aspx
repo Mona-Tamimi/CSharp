@@ -27,12 +27,12 @@
          background-color: gainsboro;
      }
 
-     #btnSeeBook, #Button3, #Button2, #Button1 {
+     #Add1, #Add2, #Edit1, #Edit2 {
          background-color: black;
          box-shadow: 0.1vw 0.1vw 0.2vw gray;
      }
 
-         #btnSeeBook:hover, #Button3:hover, #Button2:hover, #Button1:hover {
+         #Add1:hover, #Add2:hover, #Edit1:hover, #Edit2:hover {
              box-shadow: 0.4vw 0.4vw 0.9vw gray;
          }
  </style>

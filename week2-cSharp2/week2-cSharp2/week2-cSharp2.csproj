@@ -68,10 +68,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Addbook.aspx" />
+    <Content Include="EditProfile.aspx" />
     <Content Include="ForAdmin.aspx" />
     <Content Include="ForStudent.aspx" />
     <Content Include="homepage.aspx" />
     <Content Include="login.aspx" />
+    <Content Include="Profile.aspx" />
+    <Content Include="SearchEdit.aspx" />
     <Content Include="Seebooks.aspx" />
     <Content Include="SignUp.aspx" />
     <Content Include="Web.config" />
@@ -83,6 +86,13 @@
     </Compile>
     <Compile Include="Addbook.aspx.designer.cs">
       <DependentUpon>Addbook.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditProfile.aspx.cs">
+      <DependentUpon>EditProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditProfile.aspx.designer.cs">
+      <DependentUpon>EditProfile.aspx</DependentUpon>
     </Compile>
     <Compile Include="ForAdmin.aspx.cs">
       <DependentUpon>ForAdmin.aspx</DependentUpon>
@@ -112,7 +122,21 @@
     <Compile Include="login.aspx.designer.cs">
       <DependentUpon>login.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Profile.aspx.cs">
+      <DependentUpon>Profile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Profile.aspx.designer.cs">
+      <DependentUpon>Profile.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchEdit.aspx.cs">
+      <DependentUpon>SearchEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchEdit.aspx.designer.cs">
+      <DependentUpon>SearchEdit.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Seebooks.aspx.cs">
       <DependentUpon>Seebooks.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

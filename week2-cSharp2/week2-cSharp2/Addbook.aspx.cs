@@ -34,7 +34,7 @@ namespace week2_cSharp2
 
             using (StreamWriter sw = new StreamWriter(file, true))
             {
-                sw.WriteLine($"\n{bookId.Text} {bookTitle.Text} {Author.Text} {Price.Text}");
+                sw.WriteLine($"{bookId.Text},{bookTitle.Text},{Author.Text},{Price.Text}");
             }
 
             successMsg.Text = "Book Was Added Successfully!";

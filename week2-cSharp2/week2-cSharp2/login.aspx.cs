@@ -38,6 +38,7 @@ namespace week2_cSharp2
                 else if (email == userdata[1] && password == userdata[2])
                 {
                     //Response.Write("<script>alert('Login Succesfully!');</script>");
+                    Session["UserEmail"] = email;
                     Response.Redirect("ForStudent.aspx");
                     return;
                 }

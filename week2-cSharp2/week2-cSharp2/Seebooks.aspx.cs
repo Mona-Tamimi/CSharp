@@ -18,7 +18,7 @@ namespace week2_cSharp2
             foreach (string book in books)
             {
                 // Split book details
-                string[] bookData = book.Split(' '); // Assume format: "ID Title Author Price"
+                string[] bookData = book.Split(','); // Assume format: "ID Title Author Price"
 
                 // Create a new TableRow
                 TableRow row = new TableRow();
